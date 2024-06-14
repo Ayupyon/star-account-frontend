@@ -1,0 +1,23 @@
+@font-face {
+  font-family: HYZhengYuan;
+  src: url('../HYZhengYuan-55W.ttf');
+}
+
+#app {
+  font-family: 'HYZhengYuan';
+}
+
+.centered-text {
+  display: grid;
+  place-items: center;
+}
+
+.bigger-text {
+  font-size: 1.5rem;
+}
+
+.page-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
